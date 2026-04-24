@@ -5,6 +5,7 @@ import ReactForm from "./Form";
 import ReactExample from "./Components/RoutingExample";
 import Pagenation from "./Components/Pagenation";
 import PasswordRegex from "./Components/Password";
+import Counter from "./count";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <br></br>
       <Pagenation />
       <PasswordRegex />
+      <Counter />
     </div>
   );
 }

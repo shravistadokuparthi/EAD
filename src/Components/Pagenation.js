@@ -4,14 +4,14 @@ import "react-table-6/react-table.css";
 
 function Pagenation(){
     const data=[
-        {name:"Shravista",age:19},
-        {name:"Koustubh",age:13},
-        {name:"Suesh",age:50},
-        {name:"Subhadra",age:45},
-        {name:"Bhagya",age:70},  
-        {name:"Lakshmi",age:16},
-        {name:"Veera",age:30},
-        {name:"Rao",age:60},
+        {name:"Madiha",age:19},
+        {name:"Naaz",age:20},
+        {name:"mnaaz",age:23},
+        {name:"rani",age:24},
+        {name:"nahyan",age:22},  
+       // {name:"Lakshmi",age:16},
+       // {name:"Veera",age:30},
+       // {name:"Rao",age:60},
     ];
 
     const columns=[
